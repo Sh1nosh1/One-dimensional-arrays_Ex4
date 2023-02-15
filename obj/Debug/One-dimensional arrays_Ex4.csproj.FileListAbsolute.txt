@@ -1,0 +1,7 @@
+E:\Овчарук Дарья 115 группа\One-dimensional arrays_Ex4\bin\Debug\One-dimensional arrays_Ex4.exe.config
+E:\Овчарук Дарья 115 группа\One-dimensional arrays_Ex4\bin\Debug\One-dimensional arrays_Ex4.exe
+E:\Овчарук Дарья 115 группа\One-dimensional arrays_Ex4\bin\Debug\One-dimensional arrays_Ex4.pdb
+E:\Овчарук Дарья 115 группа\One-dimensional arrays_Ex4\obj\Debug\One-dimensional arrays_Ex4.csproj.AssemblyReference.cache
+E:\Овчарук Дарья 115 группа\One-dimensional arrays_Ex4\obj\Debug\One-dimensional arrays_Ex4.csproj.CoreCompileInputs.cache
+E:\Овчарук Дарья 115 группа\One-dimensional arrays_Ex4\obj\Debug\One-dimensional arrays_Ex4.exe
+E:\Овчарук Дарья 115 группа\One-dimensional arrays_Ex4\obj\Debug\One-dimensional arrays_Ex4.pdb
